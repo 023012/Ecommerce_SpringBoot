@@ -5,27 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a6fc71c-f4cf-4b99-809e-9f7ec472d6ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Admin/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Admin/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Admin/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Admin/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Admin/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Admin/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Admin/src/main/java/com/ecommerce/admin/AdminApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Admin/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Admin/src/test/java/com/ecommerce/admin/AdminApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ecommerce-SpringBoot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/src/main/java/com/ecommerce/library/dto/AdminDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/src/main/java/com/ecommerce/library/entity/Admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/src/main/java/com/ecommerce/library/entity/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/src/main/java/com/ecommerce/library/repository/AdminRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/src/main/java/com/ecommerce/library/repository/RoleRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/src/main/java/com/ecommerce/library/service/AdminService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/src/main/java/com/ecommerce/library/service/Impl/AdminServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,6 +94,7 @@
       <workItem from="1678350624712" duration="8622000" />
       <workItem from="1678360857576" duration="1091000" />
       <workItem from="1678372450992" duration="4542000" />
+      <workItem from="1678381688979" duration="799000" />
     </task>
     <servers />
   </component>
