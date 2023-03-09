@@ -1,10 +1,5 @@
 # Ecommerce_SpringBoot
 ## Library
->Dependencies
--
-*
-+
--
-*
-+
+> Dependencies: 
+> Packages cần thiết:
 ## Admin
